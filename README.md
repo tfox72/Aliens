@@ -1,3 +1,2 @@
-# Aliens
 
-# Aliens_are_real Javasript homework.
+# Aliens_are_real Javasript homework, Berkeley Data Analytics.
